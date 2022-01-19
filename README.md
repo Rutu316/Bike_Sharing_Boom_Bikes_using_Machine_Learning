@@ -1,4 +1,4 @@
-# Bike_Sharing_Boom_Bikes_using_Machine_Learning
+# Bike_Sharing_Boom_Bikes_Machine_Learning_Linear_Reg
 
 
 Problem Statement:
